@@ -10,8 +10,6 @@
 <head>
 <?php $this->load->view("partials_admin/head.php") ?>
 
-
-
 </head>
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper">
